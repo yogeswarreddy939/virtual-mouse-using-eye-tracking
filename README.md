@@ -9,9 +9,9 @@ A computer vision-based virtual mouse that allows users to control the cursor us
 ✅ Hands-free computer interaction
 
 🛠️ Tech Stack
-Python
+    Python
 OpenCV
-Dlib
+   Dlib
 NumPy
 PyAutoGUI
 
